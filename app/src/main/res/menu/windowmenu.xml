@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="schemas.android.com/tools"
+    tools:context="com.airpain.game.com.airpain.airpain.MainMenu"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto" >
+    <item android:id="@+id/deletefolders"
+
+        android:title="@string/delete"
+        android:icon="@drawable/delete"
+        yourapp:showAsAction="ifRoom"
+
+        />
+</menu>

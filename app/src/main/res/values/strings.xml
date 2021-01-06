@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Airpain</string>
+
+
+
+    <string name="play">Play Game</string>
+    <string name="regular">Regular Mode</string>
+    <string name="random">Random Mode</string>
+    <string name="delete">Delete Scores</string>
+    <string name="score">Regular Mode high score: </string>
+    <string name="randomscore">Random Mode high score: </string>
+    <string name="ingamescore">Score: </string>
+    <string name="down">Go Down</string>
+    <string name="up">Go Up</string>
+
+    <string name="health">Health: </string>
+    <string name="selecteditem">Selected Item: </string>
+    <string name="howtouseitem">Select an item and double tap to use</string>
+    <string name="stage">Game Stage: </string>
+    <string name="healthplane">+ Health Plane</string>
+
+    <string name="inviscloak">Invisible Cloak</string>
+    <string name="shrink">Shrink Machine</string>
+    <string name="cloud">Cloud</string>
+</resources>
